@@ -1,1 +1,0 @@
-import{t as a,o as s,c as o,a as e,b as n,u as r,F as c}from"./index-UCdRot57.js";const l=e("h1",null,"Your Selected Team the ",-1),d={__name:"Home",setup(m){const t=a();return(_,u)=>(s(),o(c,null,[l,e("p",null,n(r(t).team),1)],64))}};export{d as default};
