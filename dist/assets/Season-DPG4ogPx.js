@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as t,c as s,f as a,F as c,a as e}from"./index-UCdRot57.js";const n={},r=e("h1",null,"Season",-1),_=e("p",null,"NFL Schedule",-1);function l(d,f){return t(),s(c,null,[r,_,a(" Week: ")],64)}const i=o(n,[["render",l]]);export{i as default};
